@@ -1,44 +1,47 @@
 * {
-	color: yellow;
+    color: yellow;
 }
 
 body {
-	background-image: url(https://avatars.githubusercontent.com/u/77234325?v=4);
+    background-image: url(https://avatars.githubusercontent.com/u/77234325?v=4);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 
 a {
-	text-decoration-style: solid;
+    text-decoration-style: solid;
 }
 
 li {
-	list-style-type: none;
+    list-style-type: square;
 }
 
 .box {
-	background-color: black;
-	margin: auto;
-	width: 50%;
-	border: 9px double yellow;
-	text-align: center;
+    font-size: 18px;
+    background-color: black;
+    margin: auto;
+    width: 50%;
+    border: 9px double yellow;
+    text-align: center;
 }
 
 .title {
-	margin: auto;
-	width: 50%;
+    margin: auto;
+    width: 50%;
 }
 
 .dev {
-	color: yellowgreen;
+    color: yellowgreen;
 }
 
 .released {
-	color: green;
+    color: green;
 }
 
 .closed {
-	color: darkred;
+    color: darkred;
 }
 
 .beta {
-	color: cyan;
+    color: cyan;
 }
