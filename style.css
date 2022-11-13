@@ -45,3 +45,8 @@ li {
 .beta {
     color: cyan;
 }
+
+#cool {
+    background-color: #010101;
+    color: #0ff;
+}
