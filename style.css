@@ -5,7 +5,7 @@
 body {
     background-image: url(https://avatars.githubusercontent.com/u/77234325?v=4);
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
+    font-size: 1.25em;
 }
 
 a {
@@ -17,11 +17,11 @@ li {
 }
 
 .box {
-    font-size: 18px;
+    font-size: 1em;
     background-color: black;
     margin: auto;
     width: 50%;
-    border: 9px double yellow;
+    border: 0.5em double yellow;
     text-align: center;
 }
 
