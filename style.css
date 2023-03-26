@@ -1,4 +1,6 @@
 * {
+    margin: auto;
+    padding: none;
     color: yellow;
 }
 
@@ -19,15 +21,13 @@ li {
 .box {
     font-size: 1em;
     background-color: black;
-    margin: auto;
-    width: 50%;
+    width: 95%;
     border: 0.5em double yellow;
     text-align: center;
 }
 
 .title {
-    margin: auto;
-    width: 50%;
+    width: 95%;
 }
 
 .dev {
